@@ -8,6 +8,8 @@ git commit -m "mensagem de commit"
 
 git push origin main
 
+ctrl + l -> clear
+
 *agora estamos na branch nova
 
 git checkout -b dev
